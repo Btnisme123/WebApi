@@ -1,0 +1,569 @@
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Collections.Immutable.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\vbc.exe
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe.config
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll.config
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.pdb
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Owin.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\WebGrease.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.pdb
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\DataTables.Mvc.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Linq.Dynamic.dll
+F:\Code .net\Code web\Thực tập công nghiệp\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Collections.Immutable.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\vbc.exe
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe.config
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll.config
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.pdb
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\DataTables.Mvc.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Owin.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Linq.Dynamic.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\WebGrease.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.pdb
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
+F:\Code .net\Code web\Thực tập công nghiệp\SVN Shop\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\vbc.exe
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll.config
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.pdb
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\DataTables.Mvc.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Owin.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Linq.Dynamic.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\WebGrease.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.pdb
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
+E:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Collections.Immutable.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\vbc.exe
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe.config
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll.config
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.pdb
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\DataTables.Mvc.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Owin.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Linq.Dynamic.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\WebGrease.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.pdb
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\vbc.exe
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll.config
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.pdb
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\DataTables.Mvc.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Owin.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Linq.Dynamic.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\WebGrease.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.pdb
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
+E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Collections.Immutable.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\vbc.exe
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\VBCSCompiler.exe.config
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll.config
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ShopMyPham_MVC.pdb
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\DataTables.Mvc.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.EntityFrameworkCore.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.Logging.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.Options.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Owin.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Remotion.Linq.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Collections.Immutable.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Interactive.Async.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Linq.Dynamic.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\WebGrease.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\log4net.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.DependencyCollector.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.Web.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AI.WindowsServer.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.ApplicationInsights.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.EntityFrameworkCore.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.EntityFrameworkCore.InMemory.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.Logging.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Extensions.Options.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Newtonsoft.Json.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Remotion.Linq.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Interactive.Async.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Deployment.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.WebPages.Razor.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Antlr3.Runtime.pdb
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\EntityFramework.SqlServer.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb

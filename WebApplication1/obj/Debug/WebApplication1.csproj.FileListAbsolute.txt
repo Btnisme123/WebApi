@@ -1,0 +1,111 @@
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\ApplicationInsights.config
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\csc.exe
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\vbc.exe
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.dll.config
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.pdb
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.dll
+F:\HOC TAP\Web MVC\ShopElectronic_MVC\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\ApplicationInsights.config
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\csc.exe
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\vbc.exe
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.dll.config
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.pdb
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.xml
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.dll
+E:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\ApplicationInsights.config
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\csc.exe
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\vbc.exe
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.dll.config
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\WebApplication1.pdb
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.xml
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.dll
+F:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.pdb
