@@ -52,5 +52,17 @@ namespace ShopMyPham_MVC.Controllers
                 });
 
         }
+        /*
+        public ActionResult SaveInfoBeacon(Int64 LocationX , Int64 LocationY)
+        {
+            var beacon = new Beacon();
+            Random random = new Random();
+            beacon.MacID = random.Next();
+            beacon.LocationX = LocationX;
+            beacon.LocationY = LocationY;
+             new CodeBeacon().insert(beacon);
+            return View("Index");   
+        }
+        */
     }
 }
