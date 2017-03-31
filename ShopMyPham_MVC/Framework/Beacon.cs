@@ -10,10 +10,10 @@ namespace ShopMyPham_MVC.Framework
     [Table("IBeacon")]
     public class Beacon
     {
-        [Key]
-        public Int64 MacID { get; set; }
-        public Int64 LocationX { get; set; }
-        public Int64 LocationY { get; set; }
+        [Key,DatabaseGenerated(DatabaseGeneratedOption.None)]    
+        public Int64 MACID { get; set; }
+        public decimal LocationX { get; set; }
+        public decimal LocationY { get; set; }
         public Int64 ShopID { get; set; }
         public String Information { get; set; }
         public String Name { get; set; }

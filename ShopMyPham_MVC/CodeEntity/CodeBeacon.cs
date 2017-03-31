@@ -17,6 +17,8 @@ namespace ShopMyPham_MVC.CodeEntity
 
         public void insert(Beacon beacon)
         {
+            Random random = new Random();
+            beacon.MACID = random.Next(1, 1000);
             context.Beacons.Add(beacon);
             context.SaveChanges();        
         }

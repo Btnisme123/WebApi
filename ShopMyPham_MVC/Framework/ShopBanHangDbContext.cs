@@ -124,13 +124,15 @@ namespace ShopMyPham_MVC.Framework
                 .IsUnicode(false);
 
             modelBuilder.Entity<Beacon>()
-              .Property(e => e.MacID);
+              .Property(e => e.MACID);
 
             modelBuilder.Entity<Beacon>()
-          .Property(e => e.LocationX);
+          .Property(e => e.LocationX)
+          .HasPrecision(18, 0);
 
             modelBuilder.Entity<Beacon>()
-             .Property(e => e.LocationY);
+             .Property(e => e.LocationY)
+          .HasPrecision(18, 0);
 
             modelBuilder.Entity<Beacon>()
              .Property(e => e.ShopID);

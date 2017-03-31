@@ -52,17 +52,28 @@ namespace ShopMyPham_MVC.Controllers
                 });
 
         }
-        /*
-        public ActionResult SaveInfoBeacon(Int64 LocationX , Int64 LocationY)
+        [HttpPost]
+        public ActionResult SaveInfoBeacon(FormCollection form)
         {
-            var beacon = new Beacon();
+
+       
+            Beacon beacon = new Beacon();
             Random random = new Random();
-            beacon.MacID = random.Next();
-            beacon.LocationX = LocationX;
-            beacon.LocationY = LocationY;
-             new CodeBeacon().insert(beacon);
+            beacon.MACID = random.Next(1,100);
+            beacon.ShopID= random.Next(1, 1000);
+            //beacon.LocationX = Convert.ToInt64(form.Get("txtCordinateX"));
+            //beacon.LocationY = Convert.ToInt64(form.Get("txtCordinateY"));
+            //
+
+            //String a = Request["LocX"].ToString();
+            //String b = Request["LocY"].ToString();
+
+           
+            beacon.LocationX = Convert.ToDecimal(form.Get("txtCordinateX").ToString());
+            beacon.LocationY = Convert.ToDecimal(form.Get("txtCordinateY").ToString());
+            new CodeBeacon().insert(beacon);
             return View("Index");   
         }
-        */
+       
     }
 }
