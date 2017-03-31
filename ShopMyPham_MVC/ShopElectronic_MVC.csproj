@@ -296,7 +296,6 @@
     <Compile Include="Areas\Admin\Models\UserPermissionDao.cs" />
     <Compile Include="CodeEntity\CodeAbout.cs" />
     <Compile Include="CodeEntity\CodeBanner.cs" />
-    <Compile Include="CodeEntity\CodeBeacon.cs" />
     <Compile Include="CodeEntity\CodeCategory.cs" />
     <Compile Include="CodeEntity\CodeContact.cs" />
     <Compile Include="CodeEntity\CodeFooter.cs" />
@@ -321,7 +320,6 @@
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Framework\About.cs" />
     <Compile Include="Framework\Banner.cs" />
-    <Compile Include="Framework\Beacon.cs" />
     <Compile Include="Framework\Category.cs" />
     <Compile Include="Framework\Contact.cs" />
     <Compile Include="Framework\Feedback.cs" />

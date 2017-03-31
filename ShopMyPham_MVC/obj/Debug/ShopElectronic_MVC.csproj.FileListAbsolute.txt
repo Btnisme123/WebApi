@@ -454,7 +454,6 @@ E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Micros
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
-F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -565,5 +564,6 @@ F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
