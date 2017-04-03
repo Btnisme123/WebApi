@@ -454,6 +454,7 @@ E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Micros
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Remotion.Linq.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -509,11 +510,13 @@ F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Owin.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.dll
-F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Remotion.Linq.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Collections.Immutable.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Interactive.Async.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Linq.Dynamic.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Net.Http.Formatting.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Http.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Http.WebHost.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Razor.dll
@@ -542,6 +545,9 @@ F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Remotion.Linq.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Interactive.Async.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Net.Http.Formatting.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Http.xml
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Http.WebHost.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Helpers.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Mvc.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Web.Optimization.xml
@@ -564,6 +570,6 @@ F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.OAuth.
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Google.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitter.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache

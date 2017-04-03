@@ -121,8 +121,8 @@
       <HintPath>..\packages\Microsoft.Extensions.Options.1.1.1\lib\netstandard1.0\Microsoft.Extensions.Options.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
@@ -157,6 +157,10 @@
       <HintPath>..\packages\System.Linq.Dynamic.1.0.6\lib\net40\System.Linq.Dynamic.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
     <Reference Include="System.ServiceModel" />
@@ -166,6 +170,14 @@
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Extensions" />
@@ -270,10 +282,12 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
     <Compile Include="Areas\Admin\Controllers\AboutController.cs" />
     <Compile Include="Areas\Admin\Controllers\BannerController.cs" />
     <Compile Include="Areas\Admin\Controllers\BaseController.cs" />
+    <Compile Include="Areas\Admin\Controllers\BeaconController.cs" />
     <Compile Include="Areas\Admin\Controllers\CategoryController.cs" />
     <Compile Include="Areas\Admin\Controllers\FooterController.cs" />
     <Compile Include="Areas\Admin\Controllers\HomeController.cs" />
@@ -296,6 +310,7 @@
     <Compile Include="Areas\Admin\Models\UserPermissionDao.cs" />
     <Compile Include="CodeEntity\CodeAbout.cs" />
     <Compile Include="CodeEntity\CodeBanner.cs" />
+    <Compile Include="CodeEntity\CodeBeacon.cs" />
     <Compile Include="CodeEntity\CodeCategory.cs" />
     <Compile Include="CodeEntity\CodeContact.cs" />
     <Compile Include="CodeEntity\CodeFooter.cs" />
@@ -320,6 +335,7 @@
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Framework\About.cs" />
     <Compile Include="Framework\Banner.cs" />
+    <Compile Include="Framework\Beacon.cs" />
     <Compile Include="Framework\Category.cs" />
     <Compile Include="Framework\Contact.cs" />
     <Compile Include="Framework\Feedback.cs" />
@@ -1410,6 +1426,7 @@
     <Content Include="Accset\Client\css\font-awesome.css.map" />
     <Content Include="Areas\Admin\Views\Permission\PermissionGroup.cshtml" />
     <Content Include="Areas\Admin\Views\Permission\PermissionUser.cshtml" />
+    <Content Include="Areas\Admin\Views\Beacon\Index.cshtml" />
     <None Include="Areas\Admin\Views\Home\Warning.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

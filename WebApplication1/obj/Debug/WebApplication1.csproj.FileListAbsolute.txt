@@ -106,6 +106,5 @@ F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.Web.xml
 F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
 F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.ApplicationInsights.xml
 F:\WebClone\ShopElectronic_MVC\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 F:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.dll
 F:\WebClone\ShopElectronic_MVC\WebApplication1\obj\Debug\WebApplication1.pdb
