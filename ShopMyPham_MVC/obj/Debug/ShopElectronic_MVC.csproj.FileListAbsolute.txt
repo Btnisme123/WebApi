@@ -454,7 +454,6 @@ E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Micros
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
 E:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
-F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Remotion.Linq.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\ApplicationInsights.config
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\csc.exe
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -510,6 +509,7 @@ F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Owin.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PagedList.Mvc.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\PayPal.dll
+F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Remotion.Linq.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Collections.Immutable.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Interactive.Async.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\System.Linq.Dynamic.dll
@@ -572,4 +572,3 @@ F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.Twitte
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.dll
 F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopMyPham_MVC.pdb
-F:\WebClone\ShopElectronic_MVC\ShopMyPham_MVC\obj\Debug\ShopElectronic_MVC.csprojResolveAssemblyReference.cache
