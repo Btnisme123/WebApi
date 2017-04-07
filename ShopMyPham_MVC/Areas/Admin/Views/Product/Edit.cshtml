@@ -138,7 +138,7 @@
                             @Html.LabelFor(model => model.CategoryID, htmlAttributes: new { @class = "col-sm-2 control-label" })
 
                             <div class="col-sm-8">
-                                @Html.DropDownListFor(model => model.CategoryID, null, new { @class = "form-control1", @autofocus = "autofocus" })
+                                @Html.DropDownListFor(model => model.CategoryID, ViewData["CategoryList"] as IEnumerable<SelectListItem>)
                             </div>
                             <div class="col-sm-2">
                                 @Html.ValidationMessageFor(model => model.CategoryID, "", new { @class = "text-danger" })

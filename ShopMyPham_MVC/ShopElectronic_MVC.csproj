@@ -296,6 +296,7 @@
     <Compile Include="Areas\Admin\Controllers\OrderController.cs" />
     <Compile Include="Areas\Admin\Controllers\PermissionController.cs" />
     <Compile Include="Areas\Admin\Controllers\ProductController.cs" />
+    <Compile Include="Areas\Admin\Controllers\ShopController.cs" />
     <Compile Include="Areas\Admin\Controllers\UserController.cs" />
     <Compile Include="Areas\Admin\Models\Author.cs" />
     <Compile Include="Areas\Admin\Models\CategoryModel.cs" />
@@ -307,6 +308,7 @@
     <Compile Include="Areas\Admin\Models\PermissionModel.cs" />
     <Compile Include="Areas\Admin\Models\ProductModel.cs" />
     <Compile Include="Areas\Admin\Models\RoleModel.cs" />
+    <Compile Include="Areas\Admin\Models\ShopModel.cs" />
     <Compile Include="Areas\Admin\Models\UserPermissionDao.cs" />
     <Compile Include="CodeEntity\CodeAbout.cs" />
     <Compile Include="CodeEntity\CodeBanner.cs" />
@@ -320,6 +322,7 @@
     <Compile Include="CodeEntity\CodeOrder.cs" />
     <Compile Include="CodeEntity\CodeOrderDetail.cs" />
     <Compile Include="CodeEntity\CodeProduct.cs" />
+    <Compile Include="CodeEntity\CodeShop.cs" />
     <Compile Include="CodeEntity\CodeType.cs" />
     <Compile Include="CodeEntity\CodeUser.cs" />
     <Compile Include="CodeEntity\CodeGroupUser.cs" />
@@ -348,6 +351,7 @@
     <Compile Include="Framework\Permission.cs" />
     <Compile Include="Framework\Product.cs" />
     <Compile Include="Framework\Role.cs" />
+    <Compile Include="Framework\Shop.cs" />
     <Compile Include="Framework\ShopBanHangDbContext.cs" />
     <Compile Include="Framework\TypeBanner.cs" />
     <Compile Include="Framework\User.cs" />
@@ -379,6 +383,7 @@
     <Content Include="Accset\Admin\js\controller\OrderDetail.js" />
     <Content Include="Accset\Admin\js\controller\permission.js" />
     <Content Include="Accset\Admin\js\controller\Product.js" />
+    <Content Include="Accset\Admin\js\controller\Shop.js" />
     <Content Include="Accset\Admin\js\controller\userController.js" />
     <Content Include="Accset\Admin\js\dataTables.boostrap.min.js" />
     <Content Include="Accset\Admin\js\dataTables.cellEdit.js" />
@@ -1428,6 +1433,9 @@
     <Content Include="Areas\Admin\Views\Permission\PermissionUser.cshtml" />
     <Content Include="Areas\Admin\Views\Beacon\Index.cshtml" />
     <None Include="Areas\Admin\Views\Home\Warning.cshtml" />
+    <Content Include="Areas\Admin\Views\Shop\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Shop\Create.cshtml" />
+    <Content Include="Areas\Admin\Views\Shop\Edit.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

@@ -72,6 +72,6 @@ F:\WebClone\ShopElectronic_MVC\WebApplication2\bin\Microsoft.Owin.Security.Googl
 F:\WebClone\ShopElectronic_MVC\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
 F:\WebClone\ShopElectronic_MVC\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 F:\WebClone\ShopElectronic_MVC\WebApplication2\bin\System.Web.Http.Owin.xml
-F:\WebClone\ShopElectronic_MVC\WebApplication2\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
 F:\WebClone\ShopElectronic_MVC\WebApplication2\obj\Debug\WebApplication2.dll
 F:\WebClone\ShopElectronic_MVC\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\WebClone\ShopElectronic_MVC\WebApplication2\obj\Debug\WebApi.csprojResolveAssemblyReference.cache

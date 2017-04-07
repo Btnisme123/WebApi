@@ -32,6 +32,8 @@ namespace ShopMyPham_MVC.Framework
         public virtual DbSet<TypeBanner> TypeBanners { get; set; }
 
         public virtual DbSet<Beacon> Beacons { get; set; }
+
+        public virtual DbSet<Shop> Shops { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Entity<About>()
@@ -143,6 +145,32 @@ namespace ShopMyPham_MVC.Framework
             modelBuilder.Entity<Beacon>()
                          .Property(e => e.Information)
                          .IsUnicode(false);
+
+            modelBuilder.Entity<Shop>()
+                .Property(e => e.ID);
+
+            modelBuilder.Entity<Shop>()
+              .Property(e => e.UserID);
+
+            modelBuilder.Entity<Shop>()
+              .Property(e => e.Email)
+              .IsUnicode(false); ;
+
+            modelBuilder.Entity<Shop>()
+              .Property(e => e.Description)
+              .IsUnicode(false);     
+
+            modelBuilder.Entity<Shop>()
+              .Property(e => e.Logo);
+
+            modelBuilder.Entity<Shop>()
+             .Property(e => e.Name);
+
+            modelBuilder.Entity<Shop>()
+            .Property(e => e.PhoneNumber);
+
+            modelBuilder.Entity<Shop>()
+            .Property(e => e.Address);
         }
     }
 }
